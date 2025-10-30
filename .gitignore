@@ -1,0 +1,29 @@
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.env.*
+.DS_Store
+.vscode/
+.idea/
+build/
+dist/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+.Python
+
+# Logs
+*.log
+
+# Test
+.pytest_cache/
+coverage/
+
+# Jupyter
+.ipynb_checkpoints/
